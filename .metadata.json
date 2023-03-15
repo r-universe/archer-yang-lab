@@ -1,6 +1,6 @@
 [
   {
-    "package": "glmvsd",
+    "package": "fastcox",
     "oncran": true
   },
   {
@@ -8,19 +8,19 @@
     "oncran": true
   },
   {
-    "package": "fastcox",
-    "oncran": true
-  },
-  {
-    "package": "SOIL",
-    "oncran": true
-  },
-  {
     "package": "gglasso",
     "oncran": true
   },
   {
+    "package": "glmvsd",
+    "oncran": true
+  },
+  {
     "package": "msda",
+    "oncran": true
+  },
+  {
+    "package": "SOIL",
     "oncran": true
   }
 ]
