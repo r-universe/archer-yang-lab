@@ -33,3 +33,8 @@
 	url = https://github.com/archer-yang-lab/soil
 	shallow = true
 	registered = true
+[submodule "TDboost"]
+	path = TDboost
+	url = https://github.com/cran/TDboost
+	shallow = true
+	registered = true
