@@ -2,6 +2,12 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "SOIL"]
+	path = SOIL
+	url = https://github.com/archer-yang-lab/soil
+[submodule "TDboost"]
+	path = TDboost
+	url = https://github.com/cran/TDboost
 [submodule "fastcox"]
 	path = fastcox
 	url = https://github.com/archer-yang-lab/fastcox
@@ -17,9 +23,3 @@
 [submodule "msda"]
 	path = msda
 	url = https://github.com/archer-yang-lab/msda
-[submodule "SOIL"]
-	path = SOIL
-	url = https://github.com/archer-yang-lab/soil
-[submodule "TDboost"]
-	path = TDboost
-	url = https://github.com/cran/TDboost
