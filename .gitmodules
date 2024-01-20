@@ -8,6 +8,9 @@
 [submodule "TDboost"]
 	path = TDboost
 	url = https://github.com/cran/TDboost
+[submodule "erboost"]
+	path = erboost
+	url = https://github.com/cran/erboost
 [submodule "fastcox"]
 	path = fastcox
 	url = https://github.com/archer-yang-lab/fastcox
