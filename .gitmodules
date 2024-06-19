@@ -23,6 +23,3 @@
 [submodule "glmvsd"]
 	path = glmvsd
 	url = https://github.com/archer-yang-lab/glmvsd
-[submodule "msda"]
-	path = msda
-	url = https://github.com/archer-yang-lab/msda
